@@ -1,0 +1,3 @@
+[submodule "GodotCPUDesign"]
+	path = GodotCPUDesign
+	url = git@github.com:Aki78/GodotCPUDesign.git
