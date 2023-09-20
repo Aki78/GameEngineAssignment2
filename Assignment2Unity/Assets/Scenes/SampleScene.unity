@@ -1039,8 +1039,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 276b7e015ad6d723cac39a8e21b811a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  volumeSlider: {fileID: 0}
-  audioController: {fileID: 0}
+  volumeSlider: {fileID: 1962321078}
+  audioController: {fileID: 1149045252}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
